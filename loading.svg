@@ -1,0 +1,17 @@
+<svg version="1.1" id="loading_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+<defs>
+  <clipPath id="icon_clip">
+    <polygon points="380.4,125.3 317.1,125.3 239.3,335.1 164.3,125.2 38.2,125.2 206.3,594.9"/>
+    <path d="M439.3,125.2L439.3,125.2l-0.3,0.2L235.1,674.7h113.7l6-16.2l40.5-109H591l44.7,125.3h126.1L565.2,125.2H439.3
+     z M430.2,455.1L495,280.9l62.2,174.3H430.2z"/>
+  </clipPath>
+</defs>
+  <g clip-path="url(#icon_clip)">
+  <rect width="800" height="800" fill="#808080"/>
+    <rect id="fill_rect" x="0" y="800" width="800" height="0" fill="#0B57D0">
+    <animate attributeName="height" values="0;800" dur="2s" repeatCount="indefinite" />
+      <animate attributeName="y" values="700;100" dur="2s" repeatCount="indefinite" />
+  </rect>
+</g>
+</svg>
